@@ -12,7 +12,7 @@ body {
  }
 
 a {
-  color: #ff0000;
+  color: #cc0000;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -222,16 +222,16 @@ color: #ffbb22;
     font-size: 1rem; } }
 
 .site-footer {
-  padding-top: 2rem;
+  padding-top: 1rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #990000; }
 
 .site-footer-owner {
   display: block;
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #000000; }
+  color: #990000; }
 
 @media screen and (min-width: 64em) {
   .site-footer {
