@@ -1,0 +1,1 @@
+/home/gadget/shell/Git/upload_site.sh
