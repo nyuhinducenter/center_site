@@ -255,3 +255,11 @@ padding: 0;
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+  div {
+        margin: auto;
+        text-align: center;
+        border-radius: 15px;
+        background: #ffbb22;
+        padding: 20px; 
+        width: 90%;  
+  }
