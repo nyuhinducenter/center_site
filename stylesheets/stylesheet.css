@@ -8,7 +8,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-
+  height: 100%;
  }
 
 a {
@@ -255,11 +255,25 @@ padding: 0;
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
-  div {
+
+  div.banner {
         margin: auto;
         text-align: center;
         border-radius: 15px;
-        background: #ffbb22;
         padding: 20px; 
         width: 90%;  
+        height: 100%;  
+        background:linear-gradient(rgba(255, 187, 34, .6), rgba(255, 187, 34, .6)),url(../images/Krishna_and_Arjuna_blow_Shankhs.jpeg) no-repeat center;
+        background-size: 100%;
   }
+
+  div.note {
+        margin: auto;
+        text-align: center;
+        border-radius: 15px;
+        padding: 20px; 
+        height: 100%;  
+        width: 90%;  
+        background:#ffbb22;
+        background-size: 100%;
+}
