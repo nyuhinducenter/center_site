@@ -277,3 +277,11 @@ padding: 0;
         background:#ffbb22;
         background-size: 100%;
 }
+
+ul {
+    margin: 8%;
+    padding: 8;
+}
+li {
+    text-align: left;
+}
